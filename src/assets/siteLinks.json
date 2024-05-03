@@ -1,36 +1,36 @@
 [
   {
-    "icon": "Blog",
+    "icon": "",
     "name": "博客",
     "link": "https://blog.cecily.eu.org/"
   },
   {
-    "icon": "Cloud",
+    "icon": "",
     "name": "网盘",
     "link": "https://910821.xyz/"
   },
   {
-    "icon": "Alien",
+    "icon": "",
     "name": "图床",
     "link": "https://image.910821.xyz/"
   },
   {
-    "icon": "Compass",
+    "icon": "",
     "name": "起始页",
     "link": "https://home.cecily.eu.org/"
   },
   {
-    "icon": "Book",
+    "icon": "",
     "name": "网址集",
     "link": "https://website.233boy.eu.org/"
   },
   {
-    "icon": "AccessPoint",
+    "icon": "",
     "name": "探针",
     "link": "https://vps.cecily.eu.org/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "",
     "name": "站点监测",
     "link": "https://up.910821.xyz/"
   }
